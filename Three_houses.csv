@@ -1,0 +1,4 @@
+price,bedrooms,bathrooms,sqft_living,sqft_lot,floors,waterfront,view,condition,grade,sqft_above,sqft_basement,is_renovated,lat,long,sqft_living15,sqft_lot15,year_sold,house_age
+852500,5,3.75,3830,8131,2,0,0,3,10,3830,0,0,47.5837,-121.971,3570,7290,2014,10
+455000,3,1.75,890,3800,1.5,0,0,3,7,750,140,0,47.6803,-122.291,1280,3800,2015,89
+240000,2,1,720,6345,1,0,0,3,6,720,0,0,47.5201,-122.35,720,6345,2014,72
